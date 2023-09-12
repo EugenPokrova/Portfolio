@@ -1,22 +1,12 @@
 # Portfolio
 
 В портфолио предствалены 3 учебных проекта в сфере промышленности:
-1. По обогащению золотосодержащей руды - https://github.com/EugenPokrova/Portfolio/tree/main/Project_1
-2. По производству стали - 
+1. [Улучшение процесса обогащения золотосодержащей руды](https://github.com/EugenPokrova/Portfolio/tree/main/Project_1)
+2. [Оптимизация процесса производства стали](https://github.com/EugenPokrova/Portfolio/tree/main/Project_2)
 3. 
 
-В работах мной применены следующие библиотеки:
-- pandas
-- sklearn
-- seaborn
-- matplotlib
-- numpy
-- catboost
-- lightgbm
-- skopt
-
-Провел предобработку данных, удалил или добавил признаки исходя из их целесообразности для задач предсказания целевого признака. 
-
-Обучил разные модели, нашел наилушие параметры и соответсвенно лучшую модель.
-
-Обучил модели, которые при предсказаниях на тестовых данных показали требуемые значения целевой метрики.
+| # | Название проекта | Описание | Стек
+|---|------------------|----------|------
+|1|[Улучшение процесса обогащения<br>золотосодержащей руды](https://github.com/EugenPokrova/Portfolio/tree/main/Project_1)|Выбор лучшей модели для увеличения <br> показателей технологического <br> процесса обогащения золота|python, pandas,<br>numpy, sklearn, matplotlib,<br>seaborn, skpot, lightgbm,<br>catboost
+|2|[Оптимизация процесса производства стали](https://github.com/EugenPokrova/Portfolio/tree/main/Project_2)|Выбор лучшей модели для<br>оптимизации процесса производства<br> стали|python, pandas,<br>numpy, sklearn, matplotlib,<br>seaborn, skpot, lightgbm,<br>catboost
+|3|
